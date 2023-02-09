@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "6a8e4d47724cdde8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d4db7e16cc5c26f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac27d77a741d284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/Open Balls and Open Sets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e63bf97c84b2451a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "83f54ceb784b6470",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a36885c8746f52b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2457e29f26965a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cc097870800ec14",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0cd9738e31fe077d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5cf1187ae7872602",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "821407031fb10ea5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "adc536b1e9e80183",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fba8da390e24f721",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4c8538f3a971eda",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ad25d8b2ffecf1e9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16811881dceb2273",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "2f4c2f1a1b3e3983",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d2457e29f26965a6",
+  "lastOpenFiles": [
+    "Permanent/Closure of a Set.md",
+    "Permanent/Open Balls and Open Sets.md",
+    "Permanent/Open Ball.md",
+    "Permanent/Induced Topology of a Metric.md",
+    "Permanent/Closed Set and Closure.md",
+    "Permanent/Boundary of a Set.md",
+    "Permanent/Closed Subsets are Compact.md",
+    "Permanent/Boundary of a Set and Exterior Point.md",
+    "Permanent/Interior Point and Interior of a Set.md",
+    "concepts_and_definitions/parametrization.md"
+  ]
+}
